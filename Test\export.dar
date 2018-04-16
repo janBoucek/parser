@@ -1,0 +1,1137 @@
+<?xml version='1.0' encoding='windows-1250' ?>
+<Import>
+<Order><OrderName>VW_66-VRL011324</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>23.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V13.0_Golf Variant_2007_4-Zyl. Einspritzmotor (1,4 l-Motor Direkteinspritzer, EA 111, Turbolader und</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>19850</ANXTranslated>
+<ANRep>1509</ANRep>
+<AN100>10741</AN100>
+<AN99_95>1163</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>18</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>0</AN0>
+<ANTotal>33281</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;6607836;;
+Translation order number;VRL011324;;
+Order date;2018-04-03 21:26:01.771;;
+Delivery date;2018-04-23 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_66;;
+Surname of customer;Guy Knight-Jones;;
+Department of customer;VST/Zb-1;;
+Telephone number of customer;+49-5361-9-27185;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Antriebsaggregat;;
+Document title;V13.0_Golf Variant_2007_4-Zyl. Einspritzmotor (1,4 l-Motor Direkteinspritzer, EA 111, Turbolader und;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+1K5;Golf Variant;2007;0
+1K2;Jetta;2006;0
+AJ5;Golf Variant;2010;0
+Number of files;1;;
+Total number of words;33281;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;;
+File repetitions (words that match across files);0;;
+Context (words that match in context);19850;;
+Repetitions;1509;;
+100% match (excluding multiple 100% matches);10741;;
+95 - 99% match (including multiple 100 % matches);1163;;
+75 - 94% match;18;;
+0 - 74% match;0;;
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_66-VRL011676</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>26.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V24.0_Golf Variant_2007_4-Zyl. Dieselmotor (2,0 l-Motor, Common Rail)</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>42496</ANXTranslated>
+<ANRep>16</ANRep>
+<AN100>800</AN100>
+<AN99_95>48</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>6</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>8</AN0>
+<ANTotal>43374</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;6607860;;
+Translation order number;VRL011676;;
+Order date;2018-04-05 17:02:35.742;;
+Delivery date;2018-04-26 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_66;;
+Surname of customer;Guy Knight-Jones;;
+Department of customer;VST/Zb-1;;
+Telephone number of customer;+49-5361-9-27185;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Antriebsaggregat;;
+Document title;V24.0_Golf Variant_2007_4-Zyl. Dieselmotor (2,0 l-Motor, Common Rail);;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+1K5;Golf Variant;2007;0
+162;Jetta;2011;0
+1K2;Jetta;2005;0
+AJ5;Golf Variant;2010;0
+Number of files;1;;
+Total number of words;43374;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);2597;;
+File repetitions (words that match across files);0;;
+Context (words that match in context);39899;;
+Repetitions;16;;
+100% match (excluding multiple 100% matches);800;;
+95 - 99% match (including multiple 100 % matches);48;;
+75 - 94% match;6;;
+0 - 74% match;8;;
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-11235</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>27.04.2018</Termin>
+<NameGe></NameGe>
+<Name>MOD e-Remote</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>5943</ANXTranslated>
+<ANRep>612</ANRep>
+<AN100>2438</AN100>
+<AN99_95>1636</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>1052</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>2087</AN0>
+<ANTotal>13768</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68650;;
+Translation order number;11235;;
+Order date;2018-04-03 09:50:11.114;;
+Delivery date;2018-04-27 09:50:11.0;;
+Collective account number;;;
+Account assignment;49520000/1943;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;MOD;;
+Document subtype;;;
+Document title;MOD e-Remote;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Number of files;1;;
+Total number of words;13768;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;;
+File repetitions (words that match across files);0;;
+Context (words that match in context);5943;;
+Repetitions;612;;
+100% match (excluding multiple 100% matches);2438;;
+95 - 99% match (including multiple 100 % matches);1636;;
+75 - 94% match;1052;;
+0 - 74% match;2087;;
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-11236</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>27.04.2018</Termin>
+<NameGe></NameGe>
+<Name>MOD Security and Service</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>7070</ANXTranslated>
+<ANRep>700</ANRep>
+<AN100>3238</AN100>
+<AN99_95>1936</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>1422</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>2601</AN0>
+<ANTotal>16967</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68706;;
+Translation order number;11236;;
+Order date;2018-04-03 12:53:49.72;;
+Delivery date;2018-04-27 12:53:49.0;;
+Collective account number;;;
+Account assignment;49520000/1943;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;MOD;;
+Document subtype;;;
+Document title;MOD Security & Service;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Number of files;1;;
+Total number of words;16967;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;;
+File repetitions (words that match across files);0;;
+Context (words that match in context);7070;;
+Repetitions;700;;
+100% match (excluding multiple 100% matches);3238;;
+95 - 99% match (including multiple 100 % matches);1936;;
+75 - 94% match;1422;;
+0 - 74% match;2601;;
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-11237</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>27.04.2018</Termin>
+<NameGe></NameGe>
+<Name>MOD Guide and Inform</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>6050</ANXTranslated>
+<ANRep>448</ANRep>
+<AN100>2780</AN100>
+<AN99_95>2685</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>1325</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>2361</AN0>
+<ANTotal>15649</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68733;;
+Translation order number;11237;;
+Order date;2018-04-03 12:58:39.831;;
+Delivery date;2018-04-27 12:58:39.0;;
+Collective account number;;;
+Account assignment;49520000/1943;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;MOD;;
+Document subtype;;;
+Document title;MOD Guide & Inform;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Number of files;1;;
+Total number of words;15649;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;;
+File repetitions (words that match across files);0;;
+Context (words that match in context);6050;;
+Repetitions;448;;
+100% match (excluding multiple 100% matches);2780;;
+95 - 99% match (including multiple 100 % matches);2685;;
+75 - 94% match;1325;;
+0 - 74% match;2361;;
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-11259</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>19.04.2018</Termin>
+<NameGe></NameGe>
+<Name>FAQ Service Portlet</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>91</ANXTranslated>
+<ANRep>3</ANRep>
+<AN100>63</AN100>
+<AN99_95>29</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>40</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>439</AN0>
+<ANTotal>665</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68784;;
+Translation order number;11259;;
+Order date;2018-04-04 11:07:50.815;;
+Delivery date;2018-04-19 11:07:50.0;;
+Collective account number;;;
+Account assignment;49520000/1984;;
+Brand and location;VW_11;;
+Surname of customer;Metka Kraus;;
+Department of customer;VST/22;;
+Telephone number of customer;+49-5361-9-33816;;
+Fax number of customer;;;
+Document type;Allgemein;;
+Document subtype;;;
+Document title;FAQ Service Portlet;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Number of files;1;;
+Total number of words;665;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;;
+File repetitions (words that match across files);0;;
+Context (words that match in context);91;;
+Repetitions;3;;
+100% match (excluding multiple 100% matches);63;;
+95 - 99% match (including multiple 100 % matches);29;;
+75 - 94% match;40;;
+0 - 74% match;439;;
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011633</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V20.0_Arteon_2018_Kardanwelle und Achsantrieb hinten</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>12904</ANXTranslated>
+<ANRep>0</ANRep>
+<AN100>716</AN100>
+<AN99_95>0</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>13</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>62</AN0>
+<ANTotal>13695</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68833;;
+Translation order number;VRL011633;;
+Order date;2018-04-04 13:34:50.056;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Kraftübertragung;;
+Document title;V20.0_Arteon_2018_Kardanwelle und Achsantrieb hinten;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+BA5;Golf Variant;2014;0
+3G2;Passat;2015;0
+5G1;Golf;2013;0
+AD1;Tiguan;2016;0
+BT1;Tiguan RUS;2017;0
+358;CC;2012;0
+7N2;Sharan;2016;0
+BQ1;Golf;2017;0
+BV5;Golf Variant;2017;0
+365;Passat Variant;2011;0
+3G5;Passat Variant;2015;0
+3H7;Arteon;2018;0
+362;Passat;2011;0
+Number of files;1;;
+Total number of words;13695;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);1634;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);11270;0,000;0,000
+Repetitions;0;0,000;0,000
+100% match (excluding multiple 100% matches);716;0,000;0,000
+95 - 99% match (including multiple 100 % matches);0;0,000;0,000
+75 - 94% match;13;0,000;0,000
+0 - 74% match;62;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-11263</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>10.04.2018</Termin>
+<NameGe></NameGe>
+<Name>Übersetzung Identity Kit_ID_Cookies_180404</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>2</ANXTranslated>
+<ANRep>0</ANRep>
+<AN100>1</AN100>
+<AN99_95>0</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>0</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>6</AN0>
+<ANTotal>9</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68842;;
+Translation order number;11263;;
+Order date;2018-04-04 19:15:15.542;;
+Delivery date;2018-04-10 19:15:15.0;;
+Collective account number;WEID01;;
+Account assignment;49520000/8046;;
+Brand and location;VW_11;;
+Surname of customer;Metka Kraus;;
+Department of customer;VST/22;;
+Telephone number of customer;+49-5361-9-33816;;
+Fax number of customer;;;
+Document type;Allgemein;;
+Document subtype;;;
+Document title;Übersetzung Identity Kit_ID_Cookies_180404;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Number of files;1;;
+Total number of words;9;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;;
+File repetitions (words that match across files);0;;
+Context (words that match in context);2;;
+Repetitions;0;;
+100% match (excluding multiple 100% matches);1;;
+95 - 99% match (including multiple 100 % matches);0;;
+75 - 94% match;0;;
+0 - 74% match;6;;
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011634</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V1.0_Arteon_2018_Automatisches Getriebe 09P - 8 Gang</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>7264</ANXTranslated>
+<ANRep>277</ANRep>
+<AN100>537</AN100>
+<AN99_95>887</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>41</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>83</AN0>
+<ANTotal>9089</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68868;;
+Translation order number;VRL011634;;
+Order date;2018-04-05 13:06:18.453;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Kraftübertragung;;
+Document title;V1.0_Arteon_2018_Automatisches Getriebe 09P - 8 Gang;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+3H7;Arteon;2018;0
+Number of files;1;;
+Total number of words;9089;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);7264;0,000;0,000
+Repetitions;277;0,000;0,000
+100% match (excluding multiple 100% matches);537;0,000;0,000
+95 - 99% match (including multiple 100 % matches);887;0,000;0,000
+75 - 94% match;41;0,000;0,000
+0 - 74% match;83;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-OC0000757</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>13.04.2018</Termin>
+<NameGe></NameGe>
+<Name>;</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>2</ANXTranslated>
+<ANRep>0</ANRep>
+<AN100>153</AN100>
+<AN99_95>25</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>39</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>40</AN0>
+<ANTotal>259</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68882;;
+Translation order number;OC0000757;;
+Order date;2018-04-05 15:43:51.341;;
+Delivery date;2018-04-13 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/1946;;
+Brand and location;VW_11;;
+Surname of customer;Metka Kraus;;
+Department of customer;VST/22;;
+Telephone number of customer;+49-5361-9-33816;;
+Fax number of customer;;;
+Document type;ODIS-Creator;;
+Document subtype;Fahrzeugelektrik;;
+Document title;;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Number of files;1;;
+Total number of words;259;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;;
+File repetitions (words that match across files);0;;
+Context (words that match in context);2;;
+Repetitions;0;;
+100% match (excluding multiple 100% matches);153;;
+95 - 99% match (including multiple 100 % matches);25;;
+75 - 94% match;39;;
+0 - 74% match;40;;
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-11276</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>11.04.2018</Termin>
+<NameGe></NameGe>
+<Name>VW ID_Zustimmung neue Rechtstexte_180406</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>2</ANXTranslated>
+<ANRep>0</ANRep>
+<AN100>1</AN100>
+<AN99_95>0</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>14</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>7</AN0>
+<ANTotal>24</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68906;;
+Translation order number;11276;;
+Order date;2018-04-06 11:24:14.613;;
+Delivery date;2018-04-11 11:24:14.0;;
+Collective account number;WEID01;;
+Account assignment;49520000/8046;;
+Brand and location;VW_11;;
+Surname of customer;Metka Kraus;;
+Department of customer;VST/22;;
+Telephone number of customer;+49-5361-9-33816;;
+Fax number of customer;;;
+Document type;Allgemein;;
+Document subtype;;;
+Document title;VW ID_Zustimmung neue Rechtstexte_180406;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Number of files;1;;
+Total number of words;24;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;;
+File repetitions (words that match across files);0;;
+Context (words that match in context);2;;
+Repetitions;0;;
+100% match (excluding multiple 100% matches);1;;
+95 - 99% match (including multiple 100 % matches);0;;
+75 - 94% match;14;;
+0 - 74% match;7;;
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011530</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V11.0_e-Golf_2014_Heizung, Klimaanlage</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>28454</ANXTranslated>
+<ANRep>61</ANRep>
+<AN100>1805</AN100>
+<AN99_95>71</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>70</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>43</AN0>
+<ANTotal>30504</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68928;;
+Translation order number;VRL011530;;
+Order date;2018-04-06 15:34:07.451;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V11.0_e-Golf_2014_Heizung, Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+BE2;e-Golf;2017;0
+BE1;e-Golf;2014;0
+Number of files;1;;
+Total number of words;30504;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);8572;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);19882;0,000;0,000
+Repetitions;61;0,000;0,000
+100% match (excluding multiple 100% matches);1805;0,000;0,000
+95 - 99% match (including multiple 100 % matches);71;0,000;0,000
+75 - 94% match;70;0,000;0,000
+0 - 74% match;43;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011560</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V8.0_Polo_2010_Heizung, Klimaanlage</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>6048</ANXTranslated>
+<ANRep>1143</ANRep>
+<AN100>3662</AN100>
+<AN99_95>784</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>31</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>10</AN0>
+<ANTotal>11678</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68946;;
+Translation order number;VRL011560;;
+Order date;2018-04-06 15:39:46.664;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V8.0_Polo_2010_Heizung, Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+6R1;Polo;2010;0
+Number of files;1;;
+Total number of words;11678;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);0;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);6048;0,000;0,000
+Repetitions;1143;0,000;0,000
+100% match (excluding multiple 100% matches);3662;0,000;0,000
+95 - 99% match (including multiple 100 % matches);784;0,000;0,000
+75 - 94% match;31;0,000;0,000
+0 - 74% match;10;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011561</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V8.0_Polo_2014_Heizung, Klimaanlage</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>13840</ANXTranslated>
+<ANRep>45</ANRep>
+<AN100>805</AN100>
+<AN99_95>63</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>29</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>6</AN0>
+<ANTotal>14788</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68962;;
+Translation order number;VRL011561;;
+Order date;2018-04-06 15:44:56.386;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V8.0_Polo_2014_Heizung, Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+6C1;Polo;2014;0
+Number of files;1;;
+Total number of words;14788;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);3024;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);10816;0,000;0,000
+Repetitions;45;0,000;0,000
+100% match (excluding multiple 100% matches);805;0,000;0,000
+95 - 99% match (including multiple 100 % matches);63;0,000;0,000
+75 - 94% match;29;0,000;0,000
+0 - 74% match;6;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011337</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>07.05.2018</Termin>
+<NameGe></NameGe>
+<Name>V16.0_CC_2010_Heizung Klimaanlage</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>19268</ANXTranslated>
+<ANRep>0</ANRep>
+<AN100>1069</AN100>
+<AN99_95>16</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>13</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>0</AN0>
+<ANTotal>20366</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;68974;;
+Translation order number;VRL011337;;
+Order date;2018-04-06 15:48:53.715;;
+Delivery date;2018-05-07 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V16.0_CC_2010_Heizung Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+3C5;Passat Variant;2006;0
+357;CC;2010;0
+358;CC;2012;0
+357;Passat CC;2009;0
+3C2;Passat;2006;0
+Number of files;1;;
+Total number of words;20366;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);2766;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);16502;0,000;0,000
+Repetitions;0;0,000;0,000
+100% match (excluding multiple 100% matches);1069;0,000;0,000
+95 - 99% match (including multiple 100 % matches);16;0,000;0,000
+75 - 94% match;13;0,000;0,000
+0 - 74% match;0;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011598</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V15.0_Golf_2009_Heizung, Klimaanlage</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>23597</ANXTranslated>
+<ANRep>17</ANRep>
+<AN100>929</AN100>
+<AN99_95>4</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>49</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>0</AN0>
+<ANTotal>24596</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;69007;;
+Translation order number;VRL011598;;
+Order date;2018-04-06 15:59:41.24;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V15.0_Golf_2009_Heizung, Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+517;Golf Cabriolet;2012;0
+5K1;Golf;2009;0
+Number of files;1;;
+Total number of words;24596;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);6035;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);17562;0,000;0,000
+Repetitions;17;0,000;0,000
+100% match (excluding multiple 100% matches);929;0,000;0,000
+95 - 99% match (including multiple 100 % matches);4;0,000;0,000
+75 - 94% match;49;0,000;0,000
+0 - 74% match;0;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011599</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V8.0_Golf Sportsvan_2015_Heizung, Klimaanlage</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>31605</ANXTranslated>
+<ANRep>12</ANRep>
+<AN100>1135</AN100>
+<AN99_95>22</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>0</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>0</AN0>
+<ANTotal>32774</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;69012;;
+Translation order number;VRL011599;;
+Order date;2018-04-06 17:13:08.963;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V8.0_Golf Sportsvan_2015_Heizung, Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+AM1;Golf Sportsvan;2015;0
+AN1;Golf Sportsvan;2018;0
+Number of files;1;;
+Total number of words;32774;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);4875;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);26730;0,000;0,000
+Repetitions;12;0,000;0,000
+100% match (excluding multiple 100% matches);1135;0,000;0,000
+95 - 99% match (including multiple 100 % matches);22;0,000;0,000
+75 - 94% match;0;0,000;0,000
+0 - 74% match;0;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011600</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V7.0_Scirocco_2015_Heizung, Klimaanlage</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>17616</ANXTranslated>
+<ANRep>0</ANRep>
+<AN100>640</AN100>
+<AN99_95>6</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>13</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>0</AN0>
+<ANTotal>18275</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;69031;;
+Translation order number;VRL011600;;
+Order date;2018-04-06 18:00:53.724;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V7.0_Scirocco_2015_Heizung, Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+138;Scirocco;2015;0
+Number of files;1;;
+Total number of words;18275;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);3855;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);13761;0,000;0,000
+Repetitions;0;0,000;0,000
+100% match (excluding multiple 100% matches);640;0,000;0,000
+95 - 99% match (including multiple 100 % matches);6;0,000;0,000
+75 - 94% match;13;0,000;0,000
+0 - 74% match;0;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011601</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V7.0_Sharan_2016_Heizung, Klimaanlage</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>17461</ANXTranslated>
+<ANRep>0</ANRep>
+<AN100>729</AN100>
+<AN99_95>4</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>0</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>29</AN0>
+<ANTotal>18223</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;69058;;
+Translation order number;VRL011601;;
+Order date;2018-04-06 21:09:27.486;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V7.0_Sharan_2016_Heizung, Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+7N2;Sharan;2016;0
+Number of files;1;;
+Total number of words;18223;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);3906;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);13555;0,000;0,000
+Repetitions;0;0,000;0,000
+100% match (excluding multiple 100% matches);729;0,000;0,000
+95 - 99% match (including multiple 100 % matches);4;0,000;0,000
+75 - 94% match;0;0,000;0,000
+0 - 74% match;29;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+<Order><OrderName>VW_11-VRL011602</OrderName>
+<Customer>Porsche Česká republika s.r.o.</Customer>
+<Marke>VW</Marke>
+<CatNum></CatNum>
+<Type>RLF</Type>
+<Section></Section>
+<DateIn>09.04.2018</DateIn>
+<Termin>30.04.2018</Termin>
+<NameGe></NameGe>
+<Name>V11.0_Tiguan_2008_Heizung Klimaanlage</Name>
+<AnalyseScheme>VW 08</AnalyseScheme>
+<ANXTranslated>15408</ANXTranslated>
+<ANRep>0</ANRep>
+<AN100>519</AN100>
+<AN99_95>6</AN99_95>
+<AN94_85>0</AN94_85>
+<AN84_75>13</AN84_75>
+<AN74_50>0</AN74_50>
+<AN0>0</AN0>
+<ANTotal>15946</ANTotal>
+<FT>/home/emania/Documents/Parser/Test</FT>
+<AnalyseLog>c1;c2;c3;c4
+Call order;;;
+Call order number;69078;;
+Translation order number;VRL011602;;
+Order date;2018-04-06 21:22:33.615;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V11.0_Tiguan_2008_Heizung Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+5N1;Tiguan;2008;0
+Number of files;1;;
+Total number of words;15946;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);2164;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);13244;0,000;0,000
+Repetitions;0;0,000;0,000
+100% match (excluding multiple 100% matches);519;0,000;0,000
+95 - 99% match (including multiple 100 % matches);6;0,000;0,000
+75 - 94% match;13;0,000;0,000
+0 - 74% match;0;0,000;0,000
+Total;;;0,000
+
+</AnalyseLog>
+</Order>
+</Import>

@@ -1,0 +1,37 @@
+c1;c2;c3;c4
+Call order;;;
+Call order number;68974;;
+Translation order number;VRL011337;;
+Order date;2018-04-06 15:48:53.715;;
+Delivery date;2018-05-07 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V16.0_CC_2010_Heizung Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+3C5;Passat Variant;2006;0
+357;CC;2010;0
+358;CC;2012;0
+357;Passat CC;2009;0
+3C2;Passat;2006;0
+Number of files;1;;
+Total number of words;20366;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);2766;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);16502;0,000;0,000
+Repetitions;0;0,000;0,000
+100% match (excluding multiple 100% matches);1069;0,000;0,000
+95 - 99% match (including multiple 100 % matches);16;0,000;0,000
+75 - 94% match;13;0,000;0,000
+0 - 74% match;0;0,000;0,000
+Total;;;0,000

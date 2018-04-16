@@ -1,0 +1,33 @@
+c1;c2;c3;c4
+Call order;;;
+Call order number;69058;;
+Translation order number;VRL011601;;
+Order date;2018-04-06 21:09:27.486;;
+Delivery date;2018-04-30 00:00:00.0;;
+Collective account number;;;
+Account assignment;49520000/8087;;
+Brand and location;VW_11;;
+Surname of customer;Agathe Jezyna;;
+Department of customer;VST/22;;
+Telephone number of customer;05361-936736;;
+Fax number of customer;;;
+Document type;RL;;
+Document subtype;Heizung-Lüftung-Klimaanlage;;
+Document title;V7.0_Sharan_2016_Heizung, Klimaanlage;;
+Source language;German (Germany);;
+Target language;Czech (Czech Republic);;
+Vehicle data;;;
+Model key;Vehicle model;Year of launch;Model year
+7N2;Sharan;2016;0
+Number of files;1;;
+Total number of words;18223;;
+Detailed analysis;Words;Price per word;
+Perfect match (words that match perfectly);3906;0,000;0,000
+File repetitions (words that match across files);0;0,000;0,000
+Context (words that match in context);13555;0,000;0,000
+Repetitions;0;0,000;0,000
+100% match (excluding multiple 100% matches);729;0,000;0,000
+95 - 99% match (including multiple 100 % matches);4;0,000;0,000
+75 - 94% match;0;0,000;0,000
+0 - 74% match;29;0,000;0,000
+Total;;;0,000
